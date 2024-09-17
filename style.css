@@ -1,5 +1,5 @@
 body {
- background-color: rgb(88, 38, 9);   
+ background-color: rgb(133, 55, 16);   
 }
 
 p {
@@ -8,4 +8,10 @@ p {
 
 h1 {
     font-style: italic;
+}
+h1 {
+    color: grey;
+}
+h2 {
+    color: grey;
 }
