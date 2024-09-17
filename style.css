@@ -9,9 +9,16 @@ p {
 h1 {
     font-style: italic;
 }
+
 h1 {
     color: rgb(0, 0, 0);
 }
+
 h2 {
     color: rgb(0, 0, 0);
+}
+
+.astro {
+    color: peru;
+    font-size: medium;
 }
